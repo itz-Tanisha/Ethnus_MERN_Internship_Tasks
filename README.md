@@ -4,4 +4,4 @@ This repository consists of my solutions to the HTML, CSS, Bootstrap, Javascript
 
 ## Deployment Link 
 
-[MERN TASKS]()
+[MERN TASKS](https://itz-tanisha.github.io/Ethnus_MERN_Internship_Tasks/)
